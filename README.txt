@@ -2,6 +2,13 @@
 Made by Builders_Inc
 Conact me BuildersInc.Production@outlook.de
 ******
+To install this Datapack put the unziped folder into the Datapack folder of your Minecraft world
+In case you are on a server with the Multiverse plugin put it into the Datapack folder of the main world. (the world wich is named in the config file of your server)
+
+
+
+
+
 
 ******
 Crafting
